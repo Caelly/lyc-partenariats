@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Partenariats LYC
-
 
 # OPQUAST
 
