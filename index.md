@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Partenariats LYC
+
 
 # OPQUAST
 
@@ -35,7 +37,7 @@ Pour profiter de ce partenariat, merci de prendre contact en amont avec Cellya S
 
 Grâce à un partenariat exclusif entre YNOV et Seela Cybertraining, vous avez désormais un accès privilégié à une ressource conséquente dans le domaine de la cybersécurité.
 
-💻 En vous rendant sur https://ynov.seela.io/ avec vos identifiants YNOV, vous découvrirez une plateforme d’e-learning et d’entrainements pour faire monter en compétence sur différents sujets tech.
+💻 En vous rendant sur **https://ynov.seela.io/** */ avec vos identifiants YNOV, vous découvrirez une plateforme d’e-learning et d’entrainements pour faire monter en compétence sur différents sujets tech.
 
 Bien qu’axée cybersécurité, n’hésitez pas à jeter un œil quel que soit votre profil !
 
@@ -43,7 +45,7 @@ Bien qu’axée cybersécurité, n’hésitez pas à jeter un œil quel que soit
 
 Profitez de cet accès pour compléter votre parcours et votre panel de connaissances !
 
-Soyez curieux et n’hésitez pas à prendre contact avec vos référents si vous avez besoin d’aide ou de recommandations 😊
+Soyez curieux et n’hésitez pas à prendre contact avec vos référents de filière si vous avez besoin d’aide ou de recommandations 😊
 
 
 # YTRACK 
@@ -73,7 +75,7 @@ Pour avoir accès à ces ressources, merci d'adresser un mail à c.sirot@ynov.co
 Notre partenariat VMWare vous octroie une licence sur l'outil. 
 
 Ce partenariat est signé localement et renouvelé chaque année. 
-Pour toutes demandes d'informations, merci d'envoyer un mail à antoine.gouy@ynov.com
+Pour toutes demandes d'informations, merci d'envoyer un mail à **antoine.gouy@ynov.com**
 
 # BONS PLANS ETUDIANTS
 
