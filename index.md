@@ -2,12 +2,20 @@
 layout: default
 ---
 
+# SOMMAIRE 
 
-# OPQUAST
+* LE CLUSIR
+* SEELA
+* OPQUAST
+* YTRACK
+* VMWARE
+* AWS
+* CISCO SYSTEM
+* RED HAT
+* STORMSHIELD
+* MICROSOFT
+* BONS PLANS ETUDIANTS
 
-A partir de septembre 2024, Ynov créera des accès à son partenaire Opquast pour vous permettre de monter en compétences sur les notions de qualité, d'accessibilité et conformité web. 
-
-**Plus d'informations sur : https://www.opquast.com/**
 
 
 # LE CLUSIR
@@ -30,7 +38,6 @@ Le partenariat avec le CLUSIR de la région AURA, vous donne accès à des conf�
 
 Pour profiter de ce partenariat, merci de prendre contact en amont avec Cellya Sirot au 5ème étage dans le bureau de la pédagogie, par le biais de Teams ou par mail (c.sirot@ynov.com) **afin de signer le règlement intérieur et la charte d'éthique**. 
 
-
 # SEELA
 
 Grâce à un partenariat exclusif entre YNOV et Seela Cybertraining, vous avez désormais un accès privilégié à une ressource conséquente dans le domaine de la cybersécurité.
@@ -44,6 +51,13 @@ Bien qu’axée cybersécurité, n’hésitez pas à jeter un œil quel que soit
 Profitez de cet accès pour compléter votre parcours et votre panel de connaissances !
 
 Soyez curieux et n’hésitez pas à prendre contact avec vos référents de filière si vous avez besoin d’aide ou de recommandations 😊
+
+
+# OPQUAST
+
+A partir de septembre 2024, Ynov créera des accès à son partenaire Opquast pour vous permettre de monter en compétences sur les notions de qualité, d'accessibilité et conformité web. 
+
+**Plus d'informations sur : https://www.opquast.com/**
 
 
 # YTRACK 
@@ -74,6 +88,40 @@ Notre partenariat VMWare vous octroie une licence sur l'outil.
 
 Ce partenariat est signé localement et renouvelé chaque année. 
 Pour toutes demandes d'informations, merci d'envoyer un mail à **antoine.gouy@ynov.com**
+
+# AWS
+
+Ce partenariat vous permet : 
+
+* Parcours d'apprentissage : accès à 8 parcours sur AWS Academy sur différentes thématiques (Dev, Data, Infra...)
+* Ressources : accès à la quasi-totalité des ressources Cloud AWS au travers de labs
+* Certifications : 50% de remise sur les certifications AWS
+
+Pour toutes demandes d'informations, merci de contacter le support IT. 
+
+# CISCO SYSTEM
+
+Ce partenariat vous donne accès à la Cisco Netacad qui permet de se former à l'utilisation du matériel Cisco. 
+
+Pour toutes demandes d'informations, merci de contacter le support IT. 
+
+# RED HAT
+
+Ce partenariat vous offre la possibilité d'accéder à des parcours d'apprentissage (accès à plusieurs parcours sur des sujets systèmes, DevOps, Conteneurisation...) et à des certifications (Red Hat propose 1 à 2 fois par an des passages de certifications gratuits aux premiers inscrits).
+
+Pour toutes demandes d'informations, merci de contacter le support IT. 
+
+# STORMSHIELD
+
+Ce partenariat vous offre la possibilité d'accéder à un parcours d'apprentissage (via SEELA) et à des certifications (réduction sur le tarif de passage de la CSNA).
+
+Pour toutes demandes d'informations, merci de contacter le support IT. 
+
+# MICROSOFT 
+
+Notre partenariat VMWare vous octroie une licence sur les différents outils proposés par la suite (Windows, SQL Server, Visual Studio Pro...) et des certifications gratuites (AZ-900, AI-900, DP-900...). 
+
+Pour toutes demandes d'informations, merci de contacter le support IT. 
 
 # BONS PLANS ETUDIANTS
 
