@@ -2,122 +2,83 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+# OPQUAST
 
-There should be whitespace between paragraphs.
+A partir de septembre 2024, Ynov créera des accès à son partenaire Opquast pour vous permettre de monter en compétences sur les notions de qualité, d'accessibilité et conformité web. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+**Plus d'informations sur : https://www.opquast.com/**
 
 
-### Definition lists can be used with HTML syntax.
+# LE CLUSIR
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+L'organisation des clubs régionaux "Sécurité des Systèmes d'Information"
+Les CLUSIR (Club de la Sécurité des Systèmes d'Information Régionaux) sont des associations régionales décentralisées, agréées par le CLUSIF. Les CLUSIR se positionnent donc comme relais régionaux des actions du CLUSIF, agissant dans l'esprit du code d'éthique de ce dernier.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+Ces associations ont pour vocation de rassembler les différents acteurs de la sécurité des systèmes d'information, utilisateurs comme experts ou offreurs, du secteur privé comme public. Elles favorisent également les relations avec les universités qui délivrent des diplômes de troisième cycle en sécurité des systèmes d'information. 
 
-```
-The final element.
-```
+Le CLUSIR Auvergne-Rhône-Alpes
+Le CLUSIR Auvergne-Rhône-Alpes a été créé en 2004 à l’initiative de M. Yannick BOUCHET avec le soutien de l'ADIRA, de Lyon Infocité, de l'Espace Numérique Entreprises et de l'Agence Rhône Alpes du Numérique.
+
+_Source : clusir-ara.fr_
+
+
+Le partenariat avec le CLUSIR de la région AURA, vous donne accès à des conférences et tables rondes exclusives proposées au sein de l'association, des clubs d'Ethical Hacking avec Root-Me, des clubs SSI, des clubs Data, des participations à des événements majeurs de la région à prix réduits, d'aide à la recherche d'emploi et bien plus encore !
+
+**Plus d'informations sur : https://www.clusir-ara.fr/page/1857959-accueil**
+
+
+Pour profiter de ce partenariat, merci de prendre contact en amont avec Cellya Sirot au 5ème étage dans le bureau de la pédagogie, par le biais de Teams ou par mail (c.sirot@ynov.com) **afin de signer le règlement intérieur et la charte d'éthique**. 
+
+
+# SEELA
+
+Grâce à un partenariat exclusif entre YNOV et Seela Cybertraining, vous avez désormais un accès privilégié à une ressource conséquente dans le domaine de la cybersécurité.
+
+💻 En vous rendant sur https://ynov.seela.io/ avec vos identifiants YNOV, vous découvrirez une plateforme d’e-learning et d’entrainements pour faire monter en compétence sur différents sujets tech.
+
+Bien qu’axée cybersécurité, n’hésitez pas à jeter un œil quel que soit votre profil !
+
+📚 Des cours sur l’IA, la virtualisation, la sécurisation d’API, les couches réseau en plus des différents modules sur la gestion de crise, osint… sont à votre disposition !
+
+Profitez de cet accès pour compléter votre parcours et votre panel de connaissances !
+
+Soyez curieux et n’hésitez pas à prendre contact avec vos référents si vous avez besoin d’aide ou de recommandations 😊
+
+
+# YTRACK 
+
+YTrack est une plateforme d'apprentissage reposant sur un enchaînement d'exercices algorithmiques. Cette plateforme vous est préconisée lorsque vous souhaitez vous initier à un langage de programmation. 
+
+Les piscines suivantes sont disponibles : 
+
+* Javascript
+* SQL
+* Golang
+* PHP
+* C#
+* Rust
+* Python
+* Java
+* Docker 
+* Blockchain 
+* Adobe Illustrator (licence non-incluse)
+* Adobe Photoshop (licence non-incluse)
+* UX
+
+Pour avoir accès à ces ressources, merci d'adresser un mail à c.sirot@ynov.com__ avec l'objet suivant : **[ACCES_YTRACK] NOM_Prenom** et spécifier dans le corps du mail les piscines auxquelles vous souhaitez avoir accès. 
+
+# VMWARE 
+
+Notre partenariat VMWare vous octroie une licence sur l'outil. 
+
+Ce partenariat est signé localement et renouvelé chaque année. 
+Pour toutes demandes d'informations, merci d'envoyer un mail à antoine.gouy@ynov.com
+
+# BONS PLANS ETUDIANTS
+
+Voici une liste d'avantages divers grâce à votre compte Ynov et/ou statut étudiant :
+
+Github Pro à 0€
+Suite JetBrains à 0€
+Heroku à 0€
