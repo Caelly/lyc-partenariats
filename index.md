@@ -81,6 +81,6 @@ Pour toutes demandes d'informations, merci d'envoyer un mail à **antoine.gouy@y
 
 Voici une liste d'avantages divers grâce à votre compte Ynov et/ou statut étudiant :
 
-Github Pro à 0€
-Suite JetBrains à 0€
-Heroku à 0€
+* Github Pro à 0€
+* Suite JetBrains à 0€
+* Heroku à 0€
